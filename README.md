@@ -1,2 +1,2 @@
 # JosWilll.github.io
-A Diploma Project
+A former Diploma project, now will maybe be my unbelievable programmer blog!!
