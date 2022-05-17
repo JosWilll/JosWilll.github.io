@@ -1,0 +1,25 @@
+body{
+	background-color: Indigo;
+
+}
+
+.button{
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	padding: 20px 50px;
+	border: 3px solid #7B68EE;
+	border-radius: 10px
+}
+
+.button:hover{
+	animation: pulsate 1s ease-in-out;
+}
+
+@keyframes pulsate{
+	0%{
+		box-shadow: 
+		0 0 25px teal,
+		0 0 50px Indigo;
+	}
+}
